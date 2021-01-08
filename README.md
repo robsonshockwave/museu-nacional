@@ -1,6 +1,6 @@
 ## 🏛  Museu Nacional
 
-Um site simples para um museu. <strong>Criado com layout xxx.</strong>
+Um site simples para um museu. <strong>Criado com novas tags de estruturação HTML5.</strong>
 
 Projeto do curso do Jamilton Damasceno feito pra colocar o HTML e CSS em dia. 
 
